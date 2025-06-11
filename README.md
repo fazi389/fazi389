@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fazi389
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Flutter
+- 👋 Hi, I’m Faisal Shahzad
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently SOC Analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
